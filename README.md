@@ -11,4 +11,3 @@ This Basic mechine learning is implelemented both in **R** and **Python**.
 * For Python version,  you can run in terminal by type 'python file_name.py' or copy paste the script in editor.
 
 
-
