@@ -2,8 +2,8 @@
 ------------------------------------------------------------------------------------------------------
 This is the very basic implementation of **Machine Learning**. In this example we use IRIS as dataset.
 If you need to seek expertise in this area you will need to understand also the data analysis applying statistics methods so that you can judge well you data optimizing the results. 
-In very important to know wich variables are able to optimize you results. 
-This Basic mechine learning is implelemented both in **R** and **Python**. 
+Is very important to know wich variables are able to optimize you results. 
+This Basic Machine Learning is implemented both in **R** and **Python**. 
 
 ## Running script
 
